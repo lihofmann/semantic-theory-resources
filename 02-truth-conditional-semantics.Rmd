@@ -1,0 +1,21 @@
+# Truth-conditional semantics
+
+## Defining a formal metalanguage
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSuOY_Zywho?si=TimIF_Y0lZvCwS5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/scUhVtSezaQ?si=vdbp27pgOklw7v-v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## The interpretation function: From representations to denotations
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjHQBrAty4A?si=wWe6TgYIYLj7rJSz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NcKO3dBlEnY?si=rYaJD3zkrueqwlOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a4HdbgEgnYE?si=NFyEpAf9rWwxMzZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Background: Set theory basics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Fcsnk_-jzk?si=fkp8d41ia0ysQmft" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+

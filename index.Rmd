@@ -5,5 +5,33 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Introduction
 
+## What is semantic theory
+
+- [What is semantics? by Richmond H. Thomason (online resource)](https://web.eecs.umich.edu/~rthomaso/documents/general/what-is-semantics.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AySe4c3fPR8?si=wma7mFhxqKPtSDER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## The MU puzzle
+
+- [MIU Explorer (little web app) on Wolfram demonstrations](https://demonstrations.wolfram.com/MIUExplorer/)
+- [Gödel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter (full text pdf)](https://commons.library.stonybrook.edu/library_books/1/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xSVFRx3IUqs?si=9T61DpbkZYhSxL71" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## From formal systems to formal logic
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EpMfZvbmO0c?si=Pp3oYHAnjiziSS62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXGcyAxRs8c?si=ANM-L0oGw9hSEOkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Background: Recap from intro linguistics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N_mxmQOVpnQ?si=WqCU1-VVuPDfhakk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PpzqldQghrA?si=94Bj9_qZhQ7QIF9K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- ## Discussion and deep dives -->
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/qCChQzxrM7k?si=bEn2LWYSM8SjQA1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->

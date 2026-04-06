@@ -1,0 +1,9 @@
+# Propositional logic: *not, and, or*
+
+## Background: Recap from intro linguistics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IUCrnyI5BIY?si=3WMLFAxoAm1bM0Ox" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- ## Compositional semantics with names, predicates, and connectives -->
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/7r9FoZZ01Fg?si=fJqJIuvEMZ3cAOC3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->

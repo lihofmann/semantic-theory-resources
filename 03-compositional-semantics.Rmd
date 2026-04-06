@@ -1,0 +1,23 @@
+# Compositional semantics
+
+## Compositionality
+
+- [Stanford encyclopedia of Philosophy entry on Compositionality](https://plato.stanford.edu/entries/compositionality/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q2N-FELAih0?si=q1kq_WjGDwGjkm56" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWP6Sv2_8c8?si=IApzT8TyrwdU_yfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Predicates and their arguments
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2XuoMl927a0?si=CprCAm5Ha8gDEL5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HN_4_QkUIXA?si=FPLuxU7YeapGY73b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pYjX13QsKY?si=Gpn8ZaXxmTCO5Gkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+(We do not do currying in our class, so this is relevant up to 10:47)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bx_bzxdBp2A?si=NUT1C1bw5cqXmdeH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Background on relations and functions 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qxRIcuHWX4U?si=htjcMERWQFq9qElH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
